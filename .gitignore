@@ -1,0 +1,11 @@
+# Go build files
+bin/
+*.exe
+*.out
+*.test
+
+# VSCode config
+.vscode/
+
+# API keys, env files
+.env
